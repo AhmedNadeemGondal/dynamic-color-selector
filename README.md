@@ -3,7 +3,7 @@
 A JavaScript-based color palette picker that allows you to generate random color schemes, adjust them, lock colors, and save your favorite palettes for later use.
 
 ## Live Demo
-You can try out the app [here](https://ahmednadeemgondal.github.io/dynamic-color-selector/).
+Check out the live application: [Dynamic Color Selector](https://ahmednadeemgondal.github.io/dynamic-color-selector/)
 
 ## Features
 - **Random Color Generation**: Click the "Generate" button to create a random color palette.
